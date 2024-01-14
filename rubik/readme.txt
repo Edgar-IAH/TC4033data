@@ -1,0 +1,1 @@
+Various Rubik cube views
